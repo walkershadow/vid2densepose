@@ -66,4 +66,4 @@ iface = gr.Interface(
 )
 
 # Run the app
-iface.launch()
+iface.launch(share=True)
